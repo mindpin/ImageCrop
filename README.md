@@ -69,6 +69,9 @@ public class AppXxxActivity extends ImageCropActivity {
 
 详细请参考示例
 
+## 注意事项
+1. 2.2、2.3虚拟机测试《拍照裁剪》拍照时会出错，2.3真机正常。
+
 ## 参考
 * [lorensiuswlt/AndroidImageCrop][1]
 
